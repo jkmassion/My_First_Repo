@@ -1,0 +1,52 @@
+/*navigation bar*/
+
+.inline_element {
+    display: inline-block;
+    padding: 20px;
+    width: 80px;
+    background-color: darkgray;
+    text-align: center;
+    font-family:Impact, sans-serif;
+    
+}
+
+nav {
+    height: 60px;
+    background-color: lightgrey;
+  }
+
+.leftBar {
+    float: left;
+    height: 800px;
+    width: 30%;
+    background-color: deepskyblue;
+    text-align: center;
+}
+
+.mainBody {
+    float: left;
+    height: 800px;
+    width: 70%;
+    background-color: teal;
+    text-align: center
+}
+
+.babydiv {
+    height: 25%;
+    background-color: lightorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.darkorange {
+    height: 75%;
+    background-color: darkorange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    letter-spacing: 2px;
+}
+
+h1 {
+    font-weight: 100;
+    font-family: cursive;
+    font-size:30pt;
+}
